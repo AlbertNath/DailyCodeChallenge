@@ -1,4 +1,4 @@
-**Sources of problems:**
+**Problems:**
 ============================
 
 - [Watermelon](https://codeforces.com/problemset/problem/4/A)
