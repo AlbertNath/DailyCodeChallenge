@@ -10,7 +10,10 @@ public class Watermelon {
      * @param w the weight of our watermelon.
      */ 
     private static void divided(int w) {
-        if(w%2 == 0)
+        if (w == 2)
+            System.out.println("NO");
+
+        else if(w%2 == 0)
             System.out.println("YES");
         else
             System.out.println("NO");
