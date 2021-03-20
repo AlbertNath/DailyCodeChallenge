@@ -11,6 +11,6 @@
 - [Bit++](https://codeforces.com/problemset/problem/282/A)
 
 
-**_Extra for practice other lenguagues_**
+*_Extra for practice other lenguagues_*
 ===========================================
 - [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
