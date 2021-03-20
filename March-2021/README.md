@@ -9,8 +9,10 @@
 - [Next Round](https://codeforces.com/problemset/problem/158/A)
 - [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-formatter/problem)
 - [Bit++](https://codeforces.com/problemset/problem/282/A)
+- [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
+- [Domino Piling](https://codeforces.com/problemset/problem/50/A)
 
 
-*_Extra for practice other lenguagues_*
+*_Extra for practice other lenguages_*
 ===========================================
 - [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
