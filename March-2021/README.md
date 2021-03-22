@@ -12,6 +12,7 @@
 - [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
 - [Domino Piling](https://codeforces.com/problemset/problem/50/A)
 - [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
+- [End of File](https://www.hackerrank.com/challenges/java-end-of-file/problem)
 
 
 *_Extra for practice other lenguages_*
