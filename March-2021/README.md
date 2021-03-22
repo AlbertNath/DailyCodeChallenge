@@ -11,6 +11,7 @@
 - [Bit++](https://codeforces.com/problemset/problem/282/A)
 - [Petya and Strings](https://codeforces.com/problemset/problem/112/A)
 - [Domino Piling](https://codeforces.com/problemset/problem/50/A)
+- [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
 
 
 *_Extra for practice other lenguages_*
