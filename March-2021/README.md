@@ -13,8 +13,10 @@
 - [Domino Piling](https://codeforces.com/problemset/problem/50/A)
 - [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A)
 - [End of File](https://www.hackerrank.com/challenges/java-end-of-file/problem)
+- [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
+- [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)
 
 
-*_Extra for practice other lenguages_*
-===========================================
+## _Extra for practice other lenguages_
+
 - [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
