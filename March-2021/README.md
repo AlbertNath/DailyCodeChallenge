@@ -28,4 +28,4 @@
 
 ## Python
 
-1. [Write a Funtion](https://www.hackerrank.com/challenges/write-a-function/problem)
+1. [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem)
