@@ -16,6 +16,7 @@
 1. [Helpful Maths](https://codeforces.com/problemset/problem/339/A)
 1. [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)
 1. [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
+1. [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)
 
 
 **_Extra for practice other lenguages_**
@@ -27,4 +28,4 @@
 
 ## Python
 
-1. []()
+1. [Write a Funtion](https://www.hackerrank.com/challenges/write-a-function/problem)
