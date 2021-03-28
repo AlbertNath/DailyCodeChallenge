@@ -28,8 +28,10 @@
 ## C
 1. [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
 1. [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
+1. [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)
 
 ## Python
 
 1. [Write a Function](https://www.hackerrank.com/challenges/write-a-function/problem)
 1. [Print Function](https://www.hackerrank.com/challenges/python-print/problem)
+1. [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem)
