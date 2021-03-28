@@ -17,6 +17,9 @@
 1. [Valid Username Regular Expression](https://www.hackerrank.com/challenges/valid-username-checker/problem)
 1. [Word Capitalization](https://codeforces.com/problemset/problem/281/A)
 1. [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem)
+1. [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
+1. [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
+1. [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
 
 
 **_Extra for practice other lenguages_**
