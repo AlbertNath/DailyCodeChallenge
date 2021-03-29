@@ -20,6 +20,7 @@
 1. [Stones on the Table](https://codeforces.com/problemset/problem/266/A)
 1. [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
 1. [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
+1. [Solider and Bananas](https://codeforces.com/problemset/problem/546/A)
 
 
 **_Extra for practice other lenguages_**
