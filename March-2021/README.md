@@ -21,7 +21,7 @@
 1. [Boy or Girl](https://codeforces.com/problemset/problem/236/A)
 1. [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
 1. [Solider and Bananas](https://codeforces.com/problemset/problem/546/A)
-
+1. [Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
@@ -30,6 +30,7 @@
 1. [Playing With Characters](https://www.hackerrank.com/challenges/playing-with-characters/problem)
 1. [Sum and Difference of Two Numbers](https://www.hackerrank.com/challenges/sum-numbers-c/problem)
 1. [Functions in C](https://www.hackerrank.com/challenges/functions-in-c/problem)
+1. [Pointers in C](https://www.hackerrank.com/challenges/pointer-in-c/problem)
 
 ## Python
 
