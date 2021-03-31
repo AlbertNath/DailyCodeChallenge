@@ -22,6 +22,7 @@
 1. [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem)
 1. [Solider and Bananas](https://codeforces.com/problemset/problem/546/A)
 1. [Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)
+1. [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)
 
 **_Extra for practice other lenguages_**
 =========================================
