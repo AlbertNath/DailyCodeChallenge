@@ -23,6 +23,7 @@
 1. [Solider and Bananas](https://codeforces.com/problemset/problem/546/A)
 1. [Duplicate Words](https://www.hackerrank.com/challenges/duplicate-word/problem)
 1. [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A)
+1. [Wrong Substraction]()
 
 **_Extra for practice other lenguages_**
 =========================================
