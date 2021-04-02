@@ -2,7 +2,7 @@ import java.util.*;
 /**
  * 2021-03-24
  */
-public class UsernameValidator {
+class UsernameValidator {
     public static final String 
                         regularExpression = "^[a-zA-Z][\\w][0-9]{7,29}$"; 
 }
