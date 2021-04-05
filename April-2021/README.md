@@ -6,6 +6,7 @@
 1. [Elephant](https://codeforces.com/problemset/problem/617/A)
 1. [Substring Comparision](https://www.hackerrank.com/challenges/java-string-compare/problem)
 1. [String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)
+1. [Tram](https://codeforces.com/problemset/problem/116/A)
 
 **_Extra for practice other lenguages_**
 =========================================
