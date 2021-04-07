@@ -8,6 +8,7 @@
 1. [String Reverse](https://www.hackerrank.com/challenges/java-string-reverse/problem)
 1. [Tram](https://codeforces.com/problemset/problem/116/A)
 1. [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) 
+1. [Word](https://codeforces.com/problemset/problem/59/A)
 
 **_Extra for practice other lenguages_**
 =========================================
