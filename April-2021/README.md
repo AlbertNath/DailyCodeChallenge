@@ -9,6 +9,8 @@
 1. [Tram](https://codeforces.com/problemset/problem/116/A)
 1. [Java Anagrams](https://www.hackerrank.com/challenges/java-anagrams/problem) 
 1. [Word](https://codeforces.com/problemset/problem/59/A)
+1. [Substring](https://www.hackerrank.com/challenges/java-substring/problem)
+1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
