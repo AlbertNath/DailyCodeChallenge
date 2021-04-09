@@ -11,6 +11,7 @@
 1. [Word](https://codeforces.com/problemset/problem/59/A)
 1. [Substring](https://www.hackerrank.com/challenges/java-substring/problem)
 1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)
+1. [I Wanna Be The Guy](https://codeforces.com/problemset/problem/469/A)
 
 **_Extra for practice other lenguages_**
 =========================================
