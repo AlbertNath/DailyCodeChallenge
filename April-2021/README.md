@@ -12,6 +12,8 @@
 1. [Substring](https://www.hackerrank.com/challenges/java-substring/problem)
 1. [String Tokens](https://www.hackerrank.com/challenges/java-string-tokens/problem)
 1. [I Wanna Be The Guy](https://codeforces.com/problemset/problem/469/A)
+1. [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)
+1. [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
