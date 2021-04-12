@@ -15,6 +15,7 @@
 1. [Pattern Syntax Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker/problem)
 1. [Java Regex](https://www.hackerrank.com/challenges/java-regex/problem)
 1. [Queue At School](https://codeforces.com/problemset/problem/266/B)
+1. [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
