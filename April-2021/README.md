@@ -17,6 +17,7 @@
 1. [Queue At School](https://codeforces.com/problemset/problem/266/B)
 1. [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
 1. [Nearly Lucky Numbers](https://codeforces.com/problemset/problem/110/A)
+1. [Java Big Decimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
