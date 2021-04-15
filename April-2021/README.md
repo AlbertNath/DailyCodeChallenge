@@ -18,6 +18,8 @@
 1. [Tag Content Extractor](https://www.hackerrank.com/challenges/tag-content-extractor/problem)
 1. [Nearly Lucky Numbers](https://codeforces.com/problemset/problem/110/A)
 1. [Java Big Decimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
+1. [Translation](https://codeforces.com/problemset/problem/41/A)
+1. [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
 
 **_Extra for practice other lenguages_**
 =========================================
