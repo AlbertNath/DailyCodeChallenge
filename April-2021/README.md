@@ -20,7 +20,8 @@
 1. [Java Big Decimal](https://www.hackerrank.com/challenges/java-bigdecimal/problem)
 1. [Translation](https://codeforces.com/problemset/problem/41/A)
 1. [Anton and Danik](https://codeforces.com/problemset/problem/734/A)
-
+1. [1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
+1. [2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)
 **_Extra for practice other lenguages_**
 =========================================
 
