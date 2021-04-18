@@ -23,6 +23,7 @@
 1. [1D Array](https://www.hackerrank.com/challenges/java-1d-array-introduction/problem)
 1. [2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)
 1. [Bautiful Year](https://codeforces.com/problemset/problem/271/A)
+1. [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
