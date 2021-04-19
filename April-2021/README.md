@@ -24,6 +24,8 @@
 1. [2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)
 1. [Bautiful Year](https://codeforces.com/problemset/problem/271/A)
 1. [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)
+1. [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
+1. [ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
