@@ -26,6 +26,7 @@
 1. [Subarray](https://www.hackerrank.com/challenges/java-negative-subarray/problem)
 1. [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
 1. [ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)
+1. [George and Accommodation](https://codeforces.com/problemset/problem/467/A)
 
 **_Extra for practice other lenguages_**
 =========================================
