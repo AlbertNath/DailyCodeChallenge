@@ -27,6 +27,7 @@
 1. [Vanya and Fence](https://codeforces.com/problemset/problem/677/A)
 1. [ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)
 1. [George and Accommodation](https://codeforces.com/problemset/problem/467/A)
+1. [Java List](https://www.hackerrank.com/challenges/java-list/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
