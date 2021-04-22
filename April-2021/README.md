@@ -28,6 +28,8 @@
 1. [ArrayList](https://www.hackerrank.com/challenges/java-arraylist/problem)
 1. [George and Accommodation](https://codeforces.com/problemset/problem/467/A)
 1. [Java List](https://www.hackerrank.com/challenges/java-list/problem)
+1. [Presents](https://codeforces.com/problemset/problem/136/A)
+1. [Magnets](https://codeforces.com/problemset/problem/344/A)
 
 **_Extra for practice other lenguages_**
 =========================================
