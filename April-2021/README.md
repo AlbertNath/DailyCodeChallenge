@@ -30,6 +30,7 @@
 1. [Java List](https://www.hackerrank.com/challenges/java-list/problem)
 1. [Presents](https://codeforces.com/problemset/problem/136/A)
 1. [Magnets](https://codeforces.com/problemset/problem/344/A)
+1. [Map](https://www.hackerrank.com/challenges/phone-book/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
