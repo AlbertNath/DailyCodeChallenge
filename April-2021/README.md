@@ -31,6 +31,7 @@
 1. [Presents](https://codeforces.com/problemset/problem/136/A)
 1. [Magnets](https://codeforces.com/problemset/problem/344/A)
 1. [Map](https://www.hackerrank.com/challenges/phone-book/problem)
+1. [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
 
 **_Extra for practice other lenguages_**
 =========================================
