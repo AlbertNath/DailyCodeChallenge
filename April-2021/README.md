@@ -33,6 +33,7 @@
 1. [Map](https://www.hackerrank.com/challenges/phone-book/problem)
 1. [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
 1. [Stack](https://www.hackerrank.com/challenges/java-stack/problem)
+1. [Hulk](https://codeforces.com/problemset/problem/705/A)
 
 **_Extra for practice other lenguages_**
 =========================================
