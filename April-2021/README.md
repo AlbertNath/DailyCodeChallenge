@@ -34,6 +34,7 @@
 1. [In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
 1. [Stack](https://www.hackerrank.com/challenges/java-stack/problem)
 1. [Hulk](https://codeforces.com/problemset/problem/705/A)
+1. [HashSet](https://www.hackerrank.com/challenges/java-hashset/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
