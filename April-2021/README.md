@@ -36,6 +36,7 @@
 1. [Hulk](https://codeforces.com/problemset/problem/705/A)
 1. [HashSet](https://www.hackerrank.com/challenges/java-hashset/problem)
 1. [Calculating Function](https://codeforces.com/problemset/problem/486/A)
+1. [Generics](https://www.hackerrank.com/challenges/java-comparator/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
