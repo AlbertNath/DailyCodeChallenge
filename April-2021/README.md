@@ -38,10 +38,3 @@
 1. [Calculating Function](https://codeforces.com/problemset/problem/486/A)
 1. [Generics](https://www.hackerrank.com/challenges/java-comparator/problem)
 1. [Ultra-Fast Matematician](https://codeforces.com/problemset/problem/61/A)
-
-**_Extra for practice other lenguages_**
-=========================================
-
-## C
-
-## Python
