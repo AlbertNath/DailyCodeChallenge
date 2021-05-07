@@ -15,14 +15,14 @@ public class JDequeue {
         for (int i = 0; i < n; i++) {
             int num = in.nextInt();
 
-            deque.push(num);
+            deque.add(num);
             set.add(num);
 
             if(deque.size() == m){
                 ans = (set.size() > ans)? set.size() : ans;
-                int pop = deque.pop();
-                if(!deque.contains(pop))
-                    set.remove(pop);
+                int elem = deque.remove();
+                if(!deque.contains(elem))
+                    set.remove(elem);
             }
         }
 
