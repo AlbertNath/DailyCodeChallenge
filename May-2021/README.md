@@ -5,6 +5,7 @@
 1. [Drinks](https://codeforces.com/problemset/problem/200/B)
 1. [Sort](https://www.hackerrank.com/challenges/java-sort/problem)
 1. [Insomnia Cure](https://codeforces.com/problemset/problem/148/A)
+1. [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
