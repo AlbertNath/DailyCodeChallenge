@@ -7,6 +7,7 @@
 1. [Insomnia Cure](https://codeforces.com/problemset/problem/148/A)
 1. [Java Dequeue](https://www.hackerrank.com/challenges/java-dequeue/problem)
 1. [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)
+1. [Arrival of the General](https://codeforces.com/problemset/problem/144/A)
 
 **_Extra for practice other lenguages_**
 =========================================
