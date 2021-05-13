@@ -10,6 +10,7 @@
 1. [Arrival of the General](https://codeforces.com/problemset/problem/144/A)
 1. [Priority Queue](https://www.hackerrank.com/challenges/java-priority-queue/problem)
 1. [Anton and Letters](https://codeforces.com/problemset/problem/443/A)
+1. [Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
