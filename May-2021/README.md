@@ -12,6 +12,7 @@
 1. [Anton and Letters](https://codeforces.com/problemset/problem/443/A)
 1. [Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)
 1. [Divisibility problem](https://codeforces.com/problemset/problem/1328/A)
+1. [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
