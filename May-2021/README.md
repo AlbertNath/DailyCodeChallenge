@@ -13,6 +13,7 @@
 1. [Primality Test](https://www.hackerrank.com/challenges/java-primality-test/problem)
 1. [Divisibility problem](https://codeforces.com/problemset/problem/1328/A)
 1. [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
+1. [Games](https://codeforces.com/problemset/problem/268/A)
 
 **_Extra for practice other lenguages_**
 =========================================
