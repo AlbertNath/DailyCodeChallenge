@@ -15,6 +15,7 @@
 1. [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem)
 1. [Games](https://codeforces.com/problemset/problem/268/A)
 1. [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)
+1. [Pangram](https://codeforces.com/problemset/problem/520/A)
 
 **_Extra for practice other lenguages_**
 =========================================
