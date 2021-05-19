@@ -16,6 +16,7 @@
 1. [Games](https://codeforces.com/problemset/problem/268/A)
 1. [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)
 1. [Pangram](https://codeforces.com/problemset/problem/520/A)
+1. [Simple Adition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)
 
 **_Extra for practice other lenguages_**
 =========================================
