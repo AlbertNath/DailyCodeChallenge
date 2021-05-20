@@ -17,6 +17,7 @@
 1. [Exception Handling](https://www.hackerrank.com/challenges/java-exception-handling/problem)
 1. [Pangram](https://codeforces.com/problemset/problem/520/A)
 1. [Simple Adition](https://www.hackerrank.com/challenges/simple-addition-varargs/problem)
+1. [Anton and Polyedrons](https://codeforces.com/problemset/problem/785/A)
 
 **_Extra for practice other lenguages_**
 =========================================
