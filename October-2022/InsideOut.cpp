@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
     int t, m;
-    string s, r;
+    string s, s1, s2, r;
 
     cin >> t;
     getline(cin, s);
@@ -14,15 +14,21 @@ int main() {
     while (t--) {
         getline(cin, s);
         m = s.length()/2;
-        char mid1[m], mid2[m];
 
-        strncpy(mid1, &s[0], m);
-        strncpy(mid2, &s[m], s.length() - m);
+        for (int i = 0; i < m; i++)
+            s1 += s[i];
 
-        reverse(mid1, mid1+m);
-        reverse(mid2, mid2+m);
+        for (int i = m; i < s.length(); i++)
+            s2 += s[i];
 
-        printf("%s%s", mid1,mid2);
+        reverse(s1.begin(), s1.end());
+        reverse(s2.begin(), s2.end());
+
+        r = s1 + s2;
+        cout << r << endl;
+        r.clear();
+        s1.clear();
+        s2.clear();
     }
 
     return 0;
