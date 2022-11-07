@@ -2,6 +2,8 @@
 #include <cstring>
 #include <string>
 #include <algorithm>
+#include <type_traits>
+#include <utility>
 using namespace std;
 
 int main() {
@@ -15,6 +17,15 @@ int main() {
         getline(cin, s);
         m = s.length()/2;
 
+        // for(int i = 0; i < m/2; i++){
+        //     swap(s[i], s[m - i - 1]);
+        // }
+
+        // for (int j = m; j/2 < s.length(); j++) {
+        //     swap(s[j], s[s.length() - j - 1]);
+        // }
+
+        // cout << s << endl;
         for (int i = 0; i < m; i++)
             s1 += s[i];
 
@@ -24,8 +35,7 @@ int main() {
         reverse(s1.begin(), s1.end());
         reverse(s2.begin(), s2.end());
 
-        r = s1 + s2;
-        cout << r << endl;
+        cout << s1 + s2 << endl;
         r.clear();
         s1.clear();
         s2.clear();
